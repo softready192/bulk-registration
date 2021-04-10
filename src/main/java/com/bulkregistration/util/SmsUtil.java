@@ -14,9 +14,9 @@ public class SmsUtil {
 
     public static void sendSMS(String gender) {
         if (Gender.F.name().equalsIgnoreCase(gender)) {
-            LOG.info("Dear Mam, Welcome your registration is successful");
+            LOG.info("Dear Mam, Welcome! Your registration is successful.");
         } else if (Gender.M.name().equalsIgnoreCase(gender)) {
-            LOG.info("Dear Sir, Welcome your registration is successful");
+            LOG.info("Dear Sir, Welcome! Your registration is successful.");
         }
     }
 
