@@ -1,0 +1,1 @@
+[msisdn=+91, simType=PREPAID, name=Harshit, dob=1989-08-01, gender=M, address=KRISHNAPURI Mathura 281001, idNumber=AGYU10TU]

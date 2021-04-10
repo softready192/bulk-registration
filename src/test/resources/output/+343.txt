@@ -1,0 +1,1 @@
+[msisdn=+343, simType=POSTPAID, name=Rekha, dob=2021-04-09, gender=F, address=KRISHNAPURI Mathura 281001, idNumber=12345]
